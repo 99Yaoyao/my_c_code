@@ -1,0 +1,5 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(求三个数字平均数.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+D:\code_2022\求三个数字平均数\test.c(29,5): error C2084: 函数“int main()”已有主体
+D:\code_2022\求三个数字平均数\test.c(4): message : 参见“main”的前一个定义
+D:\code_2022\求三个数字平均数\test.c(37,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
